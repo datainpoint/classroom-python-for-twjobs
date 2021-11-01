@@ -14,3 +14,4 @@ dependencies:
     - lxml==4.6
     - matplotlib==3.4
     - RISE==5.7.1
+    - tqdm==4.62.3
