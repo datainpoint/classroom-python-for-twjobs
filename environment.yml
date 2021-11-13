@@ -15,3 +15,5 @@ dependencies:
     - matplotlib==3.4
     - RISE==5.7.1
     - tqdm==4.62.3
+    - scikit-learn==1.0.1
+    - xgboost==1.5
